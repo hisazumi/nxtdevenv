@@ -1,0 +1,15 @@
+# 1 "./sample.cfg"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "./sample.cfg"
+
+# 1 "./../../toppers_jsp/systask/cxxrt.cfg" 1
+# 40 "./../../toppers_jsp/systask/cxxrt.cfg"
+CRE_SEM(_CXXRT_SEM,{TA_TPRI,1,1});
+# 3 "./sample.cfg" 2
+INCLUDE("\"sample.h\"");
+
+CRE_TSK(TSK, { TA_HLNG | TA_ACT, TSK, tsk, 1, 1024, NULL });
+
+INCLUDE("\"at91sam7s.h\"");
+DEF_INH(IRQ_PWM_PID, { TA_HLNG, jsp_systick_low_priority });

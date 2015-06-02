@@ -1,0 +1,296 @@
+Archive member included because of file (symbol)
+
+../ecrobot/../ecrobot/libecrobot++.a(I2c.o)
+                              build/main.o (_ZN7ecrobot3I2cD2Ev)
+../ecrobot/../ecrobot/libecrobot++.a(Lcd.o)
+                              build/main.o (_ZN7ecrobot3LcdC1Ev)
+../ecrobot/../ecrobot/libecrobot++.a(LightSensor.o)
+                              build/main.o (_ZN7ecrobot11LightSensorD1Ev)
+../ecrobot/../ecrobot/libecrobot++.a(Motor.o)
+                              build/main.o (_ZN7ecrobot5MotorC1E6ePortMb)
+../ecrobot/../ecrobot/libecrobot++.a(SonarSensor.o)
+                              build/main.o (_ZN7ecrobot11SonarSensorC1E6ePortS)
+../ecrobot/../ecrobot/libecrobot++.a(TouchSensor.o)
+                              build/main.o (_ZN7ecrobot11TouchSensorC1E6ePortS)
+../ecrobot/../ecrobot/libecrobot++.a(New.o)
+                              build/MEXU.o (_Znwm)
+../ecrobot/../ecrobot/libecrobot.a(ecrobot_device_hook.o)
+                              build/ecrobot.o (ecrobot_device_initialize)
+../ecrobot/../ecrobot/libecrobot.a(ecrobot_interface.o)
+                              build/ecrobot_base.o (ecrobot_get_battery_voltage)
+../ecrobot/../ecrobot/libecrobot.a(colorsensor.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(ecrobot_interface.o) (colorsensor_init)
+../ecrobot/../ecrobot/libecrobot.a(uart.oram)
+                              build/config/armv4/at91sam7s/irq.oram (uart_isr_C_0)
+../ecrobot/../ecrobot/libecrobot.a(systick.oram)
+                              build/config/armv4/at91sam7s/irq.oram (systick_low_priority_C)
+../ecrobot/../ecrobot/libecrobot.a(byte_fifo.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(uart.oram) (byte_fifo_put)
+../ecrobot/../ecrobot/libecrobot.a(aic.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(uart.oram) (aic_set_vector)
+../ecrobot/../ecrobot/libecrobot.a(udp.oram)
+                              build/config/armv4/at91sam7s/irq.oram (udp_isr_C)
+../ecrobot/../ecrobot/libecrobot.a(twi.oram)
+                              build/config/armv4/at91sam7s/irq.oram (twi_isr_C)
+../ecrobot/../ecrobot/libecrobot.a(nxt_spi.oram)
+                              build/config/armv4/at91sam7s/irq.oram (spi_isr_C)
+../ecrobot/../ecrobot/libecrobot.a(nxt_motors.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(ecrobot_interface.o) (nxt_motor_get_count)
+../ecrobot/../ecrobot/libecrobot.a(data_abort.oram)
+                              build/ecrobot_init.o (data_abort_C)
+../ecrobot/../ecrobot/libecrobot.a(display.oram)
+                              build/rtoscalls.o (display_update)
+../ecrobot/../ecrobot/libecrobot.a(i2c.oram)
+                              build/config/armv4/at91sam7s/irq.oram (i2c_timer_isr_C)
+../ecrobot/../ecrobot/libecrobot.a(sound.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(ecrobot_interface.o) (sound_get_time)
+../ecrobot/../ecrobot/libecrobot.a(bt.oram)
+                              build/ecrobot_bluetooth.o (bt_send)
+../ecrobot/../ecrobot/libecrobot.a(nxt_avr.oram)
+                              build/ecrobot_base.o (nxt_avr_power_down)
+../ecrobot/../ecrobot/libecrobot.a(sensors.oram)
+                              ../ecrobot/../ecrobot/libecrobot++.a(LightSensor.o) (unset_digi0)
+../ecrobot/../ecrobot/libecrobot.a(sensors1.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(colorsensor.o) (sensor_pins)
+../ecrobot/../ecrobot/libecrobot.a(nxt_lcd.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(display.oram) (nxt_lcd_force_update)
+../ecrobot/../ecrobot/libecrobot.a(flash_loader.oram)
+                              build/ecrobot_base.o (set_flash_request)
+../ecrobot/../ecrobot/libecrobot.a(interrupts.oram)
+                              build/ecrobot.o (interrupts_get_and_disable)
+../ecrobot/../ecrobot/libecrobot.a(nxtjsp_splash.obmp)
+                              build/ecrobot_base.o (nxtjsp_splash_bmp_start)
+../ecrobot/../ecrobot/libecrobot.a(ecrobot_usb.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(flash_loader.oram) (ecrobot_init_usb)
+../ecrobot/../ecrobot/libecrobot.a(flashprog.oram)
+                              ../ecrobot/../ecrobot/libecrobot.a(flash_loader.oram) (flash_write_page)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(pure.o)
+                              build/MEXU.o (__cxa_pure_virtual)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(pure.o) (__gxx_personality_sj0)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_terminate.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (_ZN10__cxxabiv111__terminateEPFvvE)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_throw.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (__cxa_rethrow)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_unex_handler.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_terminate.o) (_ZN10__cxxabiv120__unexpected_handlerE)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_alloc.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_throw.o) (__cxa_free_exception)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_call.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (__cxa_call_terminate)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_catch.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (__cxa_end_catch)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_exception.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (_ZNSt13bad_exceptionD1Ev)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_globals.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (__cxa_get_globals_fast)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_term_handler.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_terminate.o) (_ZN10__cxxabiv119__terminate_handlerE)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(si_class_type_info.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_exception.o) (_ZTVN10__cxxabiv120__si_class_type_infoE)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(tinfo.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(si_class_type_info.o) (_ZNKSt9type_info14__is_pointer_pEv)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_term_handler.o) (_ZN9__gnu_cxx27__verbose_terminate_handlerEv)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(class_type_info.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(si_class_type_info.o) (_ZNK10__cxxabiv117__class_type_info10__do_catchEPKSt9type_infoPPvj)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(cp-demangle.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o) (__cxa_demangle)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_type.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o) (__cxa_current_exception_type)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_udivsi3.o)
+                              build/ecrobot_base.o (__udivsi3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_divsi3.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(uart.oram) (__divsi3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_umodsi3.o)
+                              build/kernel/mempfix.o (__umodsi3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_modsi3.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(sound.oram) (__modsi3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_dvmd_tls.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_udivsi3.o) (__div0)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_arm_addsubdf3.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(colorsensor.o) (__floatsidf)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_arm_muldivdf3.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(colorsensor.o) (__muldf3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_arm_cmpdf2.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(colorsensor.o) (__gtdf2)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_muldi3.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(sound.oram) (__muldi3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_divdi3.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(sound.oram) (__divdi3)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(unwind-sjlj.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (_Unwind_SjLj_Register)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_clzsi2.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_divdi3.o) (__clzsi2)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-abort.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(eh_personality.o) (abort)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fputc.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o) (fputc)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fputs.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o) (fputs)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fputs.o) (__sfvwrite_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fwrite.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o) (fwrite)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-impure.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(vterminate.o) (_impure_ptr)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-malloc.o)
+                              ../ecrobot/../ecrobot/libecrobot++.a(New.o) (free)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-mallocr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (_malloc_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-memchr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (memchr)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-memcmp.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(cp-demangle.o) (memcmp)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-memcpy.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(udp.oram) (memcpy)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-memmove.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (memmove)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-memset.o)
+                              build/ecrobot_bluetooth.o (memset)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-mlock.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-putc.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fputc.o) (_putc_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-realloc.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(cp-demangle.o) (realloc)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-reallocr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-signal.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-abort.o) (raise)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-signalr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-signal.o) (_getpid_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-sprintf.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(cp-demangle.o) (sprintf)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-strcmp.o)
+                              ../ecrobot/../ecrobot/libecrobot.a(flash_loader.oram) (strcmp)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-strcpy.o)
+                              build/ecrobot_base.o (strcpy)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-strlen.o)
+                              build/ecrobot_base.o (strlen)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-strncmp.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(cp-demangle.o) (strncmp)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-strncpy.o)
+                              build/ecrobot_bluetooth.o (strncpy)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-svfprintf.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-sprintf.o) (_svfprintf_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-syscalls.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-signalr.o) (_kill)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-syswrite.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libstdc++.a(pure.o) (write)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-wbuf.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-putc.o) (__swbuf_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-writer.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-syswrite.o) (_write_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-wsetup.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-dtoa.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-svfprintf.o) (_dtoa_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-errno.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-syscalls.o) (__errno)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fflush.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (_fflush_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-findfp.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fputc.o) (__sinit)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-freer.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fvwrite.o) (_free_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fwalk.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fflush.o) (_fwalk_reent)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-locale.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-svfprintf.o) (_localeconv_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-makebuf.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-mprec.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-dtoa.o) (_Bfree)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-reent.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-signalr.o) (errno)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-s_fpclassify.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-svfprintf.o) (__fpclassifyd)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-stdio.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-findfp.o) (__sclose)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-svfiprintf.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-svfprintf.o) (__ssprint_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-callocr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-mprec.o) (_calloc_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-closer.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-stdio.o) (_close_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fclose.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-findfp.o) (fclose)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-fstatr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-makebuf.o) (_fstat_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-isattyr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-makebuf.o) (_isatty_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-lseekr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-stdio.o) (_lseek_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-readr.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-stdio.o) (_read_r)
+/vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/thumb/interwork/libgcc.a(_arm_fixdfsi.o)
+                              /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-dtoa.o) (__fixdfsi)
+
+Allocating common symbols
+Common symbol       size              file
+
+_kernel_cyccb_table
+                    0x18              build/./kernel_cfg.o
+_kernel_syslog_count
+                    0x4               build/kernel/syslog.o
+_kernel_syslog_logmask
+                    0x4               build/kernel/syslog.o
+errno               0x4               /vagrant/gnuarm/lib/gcc/arm-elf/4.4.2/../../../../arm-elf/lib/thumb/interwork/libc.a(lib_a-reent.o)
+_kernel_syslog_lowmask
+                    0x4               build/kernel/syslog.o
+_kernel_dtqinib_table
+                    0x0               build/./kernel_cfg.o
+_kernel_dtqcb_table
+                    0x0               build/./kernel_cfg.o
+display_x           0x4               ../ecrobot/../ecrobot/libecrobot.a(display.oram)
+_kernel_syslog_head
+                    0x4               build/kernel/syslog.o
+_kernel_reqflg      0x4               build/kernel/task.o
+_kernel_interrupt_count
+                    0x4               build/config/armv4/cpu_config.o
+_kernel_ready_queue
+                    0x80              build/kernel/task.o
+_kernel_semcb_table
+                    0x10              build/./kernel_cfg.o
+_kernel_mbxinib_table
+                    0x0               build/./kernel_cfg.o
+_kernel_syslog_tail
+                    0x4               build/kernel/syslog.o
+_kernel_flginib_table
+                    0x0               build/./kernel_cfg.o
+_kernel_tmevt_heap  0x18              build/./kernel_cfg.o
+_kernel_ready_primap
+                    0x4               build/kernel/task.o
+nontask_stack       0x400             build/config/armv4/at91sam7s/sys_config.o
+_kernel_syslog_lost
+                    0x4               build/kernel/syslog.o
+_kernel_int_table   0x80              build/config/armv4/at91sam7s/sys_config.o
+_kernel_current_time
+                    0x4               build/kernel/time_event.o
+_kernel_iniflg      0x4               build/kernel/startup.o
+data_abort_pc       0x4               ../ecrobot/../ecrobot/libecrobot.a(data_abort.oram)
+_kernel_excinib_table
+                    0x0               build/./kernel_cfg.o
+_kernel_syslog_buffer
+                    0x400             build/kernel/syslog.o
+_kernel_mpfcb_table
+                    0x0               build/./kernel_cfg.o
+_kernel_tcb_table   0x40              build/./kernel_cfg.o
+_kernel_int_stack   0x18              build/config/armv4/cpu_config.o
+_kernel_runtsk      0x4               build/kernel/task.o
+_kernel_enadsp      0x4               build/kernel/task.o
+_kernel_next_time   0x4               build/kernel/time_event.o
+_kernel_mpfinib_table
+                    0x0               build/./kernel_cfg.o
+_kernel_systim_offset
+                    0x4               build/kernel/time_event.o
+display_y           0x4               ../ecrobot/../ecrobot/libecrobot.a(display.oram)
+uart                0x44              ../ecrobot/../ecrobot/libecrobot.a(uart.oram)
+_kernel_flgcb_table
+                    0x0               build/./kernel_cfg.o
+_kernel_schedtsk    0x4               build/kernel/task.o
+_kernel_mbxcb_table
+                    0x0               build/./kernel_cfg.o
+sample              0x324             ../ecrobot/../ecrobot/libecrobot.a(sound.oram)
+_kernel_last_index  0x4               build/kernel/time_event.o
